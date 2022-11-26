@@ -1,5 +1,5 @@
 # python_des_3keys 三个key的python DES加密
-通过python实现2006年@Guopo写的Javascript版本的3keysDes加密，原JS文件也已上传。
+通过python实现2006年Guopo写的Javascript版本的3keysDes加密，原JS文件也已上传。
 
 简单说就是通过3个key将加密对象按4的长度拆开后的二进制数据进行三次加密。
 
